@@ -1,0 +1,2 @@
+# InventoTech
+Inventory Management System
